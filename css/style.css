@@ -1,0 +1,90 @@
+body{
+
+	background: #07243C;
+}
+
+.container{
+	margin: 0 auto;
+	overflow: hidden;
+	width: 1100px;
+}
+.home-section{
+
+}
+.image{width: 30%;float: left;}
+.image img{height: 100%;width: 100%;padding-top: 100px;}
+.content{width: 70%;float: left;}
+.content .heading{text-align: center;padding: 45px 0;}
+.content .heading h1{font-size: 40px;margin: 0;color: white;text-transform: uppercase;}
+.content .heading h3{color: white;font-size: 25px;margin: 15px 0 0 0;}
+.content .heading span{color: #06fff7;}
+.menu{width: 40%;float: left;background: #0F384C;margin: 15px 15px;}
+.menu .box{text-align: center;padding: 30px 0;}
+.menu .box i{font-size: 45px;}
+.menu .box p{color: white;text-transform: uppercase;font-size: 20px;font-weight: bold;}
+.menu .box span{}
+.menu .box img{height: 42px;width: 50px;}
+.pink{
+	color: #d466ad;
+}
+.orange{
+	color: #e89e3e;
+}
+.green{
+	color: #1dbe64;
+}
+.blue{
+	color: #1990d4;
+}
+
+.about-section{text-align: center;}
+.about-section h1{color: white;text-transform: uppercase;font-size: 30px;}
+.about-section hr{color: #e89e3e;width: 34%;}
+.about-section table{margin: 0 auto;color: white;padding-top: 20px;padding-bottom: 45px;}
+.about-section table tr{}
+.about-section table tr td{padding: 15px 34px;}
+.about-section table tr td span{color: #a8a8a8;}
+.btn{text-decoration: navajowhite;
+	color: white;
+	background: #e89e3e;
+	padding: 10px 20px;
+	line-height: 36px;}
+
+.education{}
+.education .heading{text-align: center;padding-bottom: 50px;}
+.education .heading h1{color: white;text-transform: uppercase;font-size: 30px;}
+.education .heading hr{color: #e89e3e;width: 34%;}
+
+
+.education .box{width: 40%;float: left;color: white;background: #0F384C;margin: 15px 15px;padding: 20px 20px;}
+.education .box span{color: #a8a8a8;}
+.education .box h6{margin: 0;font-size: 22px;padding-bottom: 5px;}
+.education .box p{color: #a8a8a8;}
+
+.favourite_list{}
+.favourite_list .heading{text-align: center;padding-bottom: 25px;}
+.favourite_list .heading h1{color: white;text-transform: uppercase;font-size: 30px;}
+.favourite_list .heading hr{color: #e89e3e;width: 34%;}
+
+.favourite{}
+.favourite ul{text-align: center;}
+.favourite ul li{list-style: none;color: white;padding: 5px 0;}
+
+.favourite_link{}
+.favourite_link .heading{text-align: center;padding-bottom: 15px;}
+.favourite_link .heading h1{color: white;text-transform: uppercase;font-size: 30px;}
+.favourite_link .heading hr{color: #e89e3e;width: 34%;}
+.link{padding-bottom: 20px;}
+.link ul{text-align: center;}
+.link ul li{list-style: none;padding: 5px 0;}
+.link ul li a{text-decoration: none;color: white;}
+
+.Hobby-section{}
+.Hobby-section .heading{text-align: center;padding-bottom: 15px;}
+.Hobby-section .heading h1{color: white;text-transform: uppercase;font-size: 30px;}
+.Hobby-section .heading hr{color: #e89e3e;width: 34%;}
+.hobby{}
+.hobby ul{text-align: center;margin-bottom: 40px;}
+.hobby ul li{list-style: none;color: white;padding: 6px 0;}
+
+
